@@ -23,6 +23,9 @@ if "_" not in display:
         
         
         #This note is for changes  and pull comamnd 
+
+#this is for push commnd which is at git repo
+
         
 
 
